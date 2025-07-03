@@ -1,0 +1,31 @@
+﻿Vehicle Type,Year,Total Crashes,Fatalities,Injuries
+Passenger Car,2017,290059,633,75583
+Passenger Car,2018,296025,582,76721
+Passenger Car,2019,289725,567,72461
+Passenger Car,2020,226505,705,58806
+Passenger Car,2021,272715,767,69638
+Pickup Trucks,2017,40221,83,5147
+Pickup Trucks,2018,41312,100,5109
+Pickup Trucks,2019,40643,78,4712
+Pickup Trucks,2020,33391,81,4125
+Pickup Trucks,2021,39357,96,4766
+Large Trucks,2017,19086,19,960
+Large Trucks,2018,21120,24,1055
+Large Trucks,2019,20386,21,952
+Large Trucks,2020,15837,24,873
+Large Trucks,2021,19029,22,932
+Bus,2017,4178,1,828
+Bus,2018,4390,1,855
+Bus,2019,4229,1,839
+Bus,2020,2184,0,493
+Bus,2021,3153,1,540
+Motorcycle,2017,3326,160,2514
+Motorcycle,2018,2973,119,2266
+Motorcycle,2019,2758,138,2098
+Motorcycle,2020,2991,152,2404
+Motorcycle,2021,3275,174,2545
+Other Vehicles,2017,33422,17,929
+Other Vehicles,2018,35447,19,909
+Other Vehicles,2019,35806,14,1055
+Other Vehicles,2020,31518,27,1106
+Other Vehicles,2021,38045,29,1286
